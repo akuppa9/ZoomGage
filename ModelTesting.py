@@ -22,4 +22,4 @@ def capture_image(file_path='snapshot.jpg'):
     cv2.destroyAllWindows()
 
 # Usage
-capture_image('path/to/your/snapshot.jpg')
+capture_image('snapshot.jpg')
