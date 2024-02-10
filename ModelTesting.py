@@ -1,4 +1,5 @@
 import cv2
+import time
 
 def capture_image(file_path='snapshot.jpg'):
     # Initialize the camera
@@ -7,6 +8,8 @@ def capture_image(file_path='snapshot.jpg'):
     if not cap.isOpened():
         print("Cannot open camera")
         exit()
+
+    time.sleep(1)
     
     # Capture a single frame
     ret, frame = cap.read()
@@ -22,4 +25,4 @@ def capture_image(file_path='snapshot.jpg'):
     cv2.destroyAllWindows()
 
 # Usage
-capture_image('snapshot.jpg')
+capture_image('snapshot.png')
