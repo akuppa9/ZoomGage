@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zoomgage",
+  "private_key_id": "6b7dce92b216b714aebc9c7773aef9c8d844b0ac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFB0GuCLw8n2r0\n04mcRXKr90GwepB297qnkLcKaJ3WZJPcJpf2KcHBNpwlqhry6JDoL6I0SFCSqoNB\nnRD/DOQelMk3NEz0FFTVs/rdFxn9INbGQsIYs1QhuvxrU/IHxzmddFpWIG+I+XGS\nJQ7rb9lYn1FGx1Xaelsns0/MlCGnq3FOyq25mSnNhfmDnZOBzt8HUJZCzZ0q4Z7h\ng305dHtFf/I0j5Goj+iM7PWcE0tfTHeJGqGGLwRvTYEGU3ahCOC/xpkI2G8HNdqc\n8dOFTvbqzm5WhWjGEIdxilfUOo8SWpBY9G8k0JaroTcjm7oZu4vns7mpsgNd8hUQ\njzWuWM7TAgMBAAECggEAGqvnIzpW06oM84Qoo7lEUwJ5/Pw1JDWtfyjNmSDHr7xr\nxlM0d66iu5dl6d9YyJCHqowQMXL8nUNsg0Gnia84Dj+77AzYwfh38iSWuBPRgSek\ni1rW0DsuZLvdlwsvv10jxSx5XMwFQo3p5uESCk2uJsYNCD93Csf3dldasmn3EwLw\ncpYgwPJNHV9RPHPNZPKQHF1GyOvxOCor0VgUrcagP6i8J9HmkOVXgpFtJ/dZjIkI\n2LkUKTPWUzn1D9qrC0GTF5ZP+YY5mc5qeZWqtO82MKgzWX5jh8krCKVxJBjrwEl4\n8ZPJYxC2k36Iz2ayd/SkV1Rlu/S5jbDWUlkiBL0o8QKBgQDrqx1n05u3pV2As/L+\n3VEIc2wm5LzugR7gpwCC4LGWPxFGlrH7Yc/ZtANtrnSTgpIoK50jtqKh8EjFwdK/\nWsC5PSmhDQ78mi8nnUuar65+QhvraU/o2QLR1ftDyT+C+OLjID07d1+LZk2vgiKa\n6oJw8nZd865JmwZujXNFTl8SqwKBgQDWBsBdp38ETV6nxqmEc7UCTl4FGFQMEQ24\niegi7pARrR03KsRxQCAqUhvfjWFsSrqY4LgrIWS2Pmlc7IAERh6mRQD1GkgmUA3q\nKVeNabyo8sTOTprv6SXAZ7XY+AouhzgjjuWTCARzSlWbt2EeEbDPbunRjF8xm3Qe\niaphYNr0eQKBgQCiJxHLj7EUEicc2DQ5IsSPwQNIW5iXrqY1QxM5+iqWy3wyipuZ\n8PoXvCGjxSaXHH8+PowXt6F9NRyNXUiJu4LhsfDDzH1kVx5c7oDHxVuVqh0VxFdk\nSnUDNm11fbJChsduKY+YLBHEk7aeLTdsSjFIT7wb9wATyyQIyzDmHf+SkwKBgHmg\nLpNKSyErwp2/hLfzdSrRVBa7I5AT5OM444VuYsrYwOCH2kitc1n5fUOGOZXrxax5\nD8/a0zvJreCTuZA0NNiyIAApplS3a6DlS47eRssP4w2Gl/+8U6rKhQm+szKLvzhd\nzVLH3JeT56BtDrCixwKqeg+OIM61E8EC5KMgAm2pAoGAKAi4FTccflQtwDRbHpVq\ny2tcNsbf+B6Jnmzbh/eAQKa3Cid477qEQXGbuZM7b8yo3EgUQgTisDzhpjHKTigJ\n/yKdLo3gM/TKLZuostmgtxx2SCtsUCYldiGT+6X/0uNrN55i5Oo7cGkIDjIPStF6\nmjFS8YyPKzZnVWYd0l78tpg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wtltz@zoomgage.iam.gserviceaccount.com",
+  "client_id": "106599830973659924431",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wtltz%40zoomgage.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
