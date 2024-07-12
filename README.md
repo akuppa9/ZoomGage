@@ -34,6 +34,9 @@ ZoomGage goes beyond simply measuring engagement. It empowers hosts to foster a 
 
 ### 🏠 [Project Demo Link](https://drive.google.com/file/d/1hlxHbw6xG_T2CZuRHWsxTX9gb0fsbuX5/view?usp=drive_link)
 
+## Useful Repositories:
+https://github.com/ultralytics/yolov5
+https://github.com/HumanSignal/labelImg
 
 ## Developers
 
